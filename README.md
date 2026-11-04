@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0875-koko-eating-bananas](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0217-contains-duplicate) |
 ## Matrix
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
