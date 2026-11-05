@@ -14,16 +14,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0455-assign-cookies) |
 | [0875-koko-eating-bananas](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0455-assign-cookies](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0217-contains-duplicate) |
+| [0455-assign-cookies](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -95,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Jinendra0908/DSA-leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
